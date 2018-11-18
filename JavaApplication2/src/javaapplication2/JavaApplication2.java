@@ -16,7 +16,7 @@ public class JavaApplication2 {
      */
     public static void main(String[] args) {
         // version 4
-        System.out.println("Check today's pick-up - version 4");
+        System.out.println("Check today's pick-up - version 4 and final");
         System.out.println("Integrating with github and pivotal tracker - check today's pick-p orders");
     }
     
