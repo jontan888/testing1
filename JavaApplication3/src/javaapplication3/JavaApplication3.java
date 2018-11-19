@@ -3,21 +3,19 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package javaapplication2;
+package javaapplication3;
 
 /**
  *
- * @author Tan Ann Ling
+ * @author User
  */
-public class JavaApplication2 {
+public class JavaApplication3 {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // Final version 
-        System.out.println("Check today's pick-up - final version");
-        System.out.println("Integrating with github and pivotal tracker - check today's pick-p orders");
+       System.out.println("hello");
     }
     
 }
